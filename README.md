@@ -1,2 +1,3 @@
-# ComS309-FloorMapper
-Floor Mapper for the in building mapping edges.
+Floor Mapper
+
+For class Computer Science 309 at ISU.

@@ -1,0 +1,48 @@
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Floor Plan Mapper.exe.config
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Floor Plan Mapper.exe
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Floor Plan Mapper.pdb
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor Plan Mapper.csprojAssemblyReference.cache
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor_Plan_Mapper.frmMain.resources
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor_Plan_Mapper.Properties.Resources.resources
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor Plan Mapper.csproj.GenerateResource.cache
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor Plan Mapper.csproj.CoreCompileInputs.cache
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor Plan Mapper.exe
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor Plan Mapper.pdb
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor Plan Mapper.csproj.CopyComplete
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\itextsharp.dll
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\itextsharp.xml
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Ghostscript.NET.dll
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Ghostscript.NET.xml
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Apitron.PDF.Rasterizer.dll
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Apitron.PDF.Rasterizer.xml
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\SautinSoft.Document.dll
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\SautinSoft.Document.xml
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\IronOcr.dll
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\IronOcr.xml
+c:\users\gavin\source\repos\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor_Plan_Mapper.Screens.frmMapper.resources
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Floor Plan Mapper.exe.config
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Floor Plan Mapper.exe
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Floor Plan Mapper.pdb
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Apitron.PDF.Rasterizer.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Ghostscript.NET.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\IronOcr.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\itextsharp.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\SautinSoft.Document.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Apitron.PDF.Rasterizer.xml
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Ghostscript.NET.xml
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\IronOcr.xml
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\itextsharp.xml
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\SautinSoft.Document.xml
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor Plan Mapper.csprojAssemblyReference.cache
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor_Plan_Mapper.frmMain.resources
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor_Plan_Mapper.Properties.Resources.resources
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor_Plan_Mapper.Screens.frmMapper.resources
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor Plan Mapper.csproj.GenerateResource.cache
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor Plan Mapper.csproj.CopyComplete
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor Plan Mapper.exe
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\obj\Debug\Floor Plan Mapper.pdb
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Echovoice.JSON.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Echovoice.JSON.pdb
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Echovoice.JSON.xml
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan Mapper\bin\Debug\Newtonsoft.Json.xml

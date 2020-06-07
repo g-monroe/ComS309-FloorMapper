@@ -1,0 +1,20 @@
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Floor Plan MapperTests.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Floor Plan MapperTests.pdb
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Floor Plan Mapper.exe
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\SautinSoft.Document.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Floor Plan Mapper.pdb
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Floor Plan Mapper.exe.config
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\bin\Debug\SautinSoft.Document.xml
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\obj\Debug\Floor Plan MapperTests.csprojAssemblyReference.cache
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\obj\Debug\Floor Plan MapperTests.csproj.CopyComplete
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\obj\Debug\Floor Plan MapperTests.dll
+C:\Users\Gavin\Documents\SS_6\ISU Floor Mapper\Floor Plan Mapper\Floor Plan MapperTests\obj\Debug\Floor Plan MapperTests.pdb
